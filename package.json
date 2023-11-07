@@ -9,7 +9,8 @@
   "dependencies": {
     "@slidev/cli": "^0.42.3",
     "@slidev/theme-default": "latest",
-    "@slidev/theme-seriph": "latest"
+    "@slidev/theme-seriph": "latest",
+    "monaco-editor": "^0.44.0"
   },
   "devDependencies": {
     "@iconify-json/icon-park": "^1.1.11",

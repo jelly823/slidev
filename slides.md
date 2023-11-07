@@ -267,7 +267,7 @@ Animations are powered by [@vueuse/motion](https://motion.vueuse.org/).
 </div>
 ```
 
-```javascript {monaco}
+```js {monaco}
 console.log('Hello World!')
 ```
 
