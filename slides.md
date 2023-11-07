@@ -67,7 +67,6 @@ Slidev is a slides maker and presenter designed for developers, consist of the f
 - Item 1
 - Item 2
 - Item 3
-- Item 4
 
 </v-clicks>
 
