@@ -20,7 +20,6 @@ monaco: true
 # Welcome to Slidev
 
 Presentation slides for developers
-ljl111
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -259,7 +258,7 @@ preload: true
 
 Animations are powered by [@vueuse/motion](https://motion.vueuse.org/).
 
-```html {monaco}
+```html
 <div
   v-motion
   :initial="{ x: -80 }"
@@ -267,7 +266,11 @@ Animations are powered by [@vueuse/motion](https://motion.vueuse.org/).
   Slidev
 </div>
 ```
-<!--ljl备注一下-->
+
+```javascript {monaco}
+console.log('Hello World!')
+```
+
 <div class="w-60 relative mt-6">
   <div class="relative w-40 h-40">
     <img
