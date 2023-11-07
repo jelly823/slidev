@@ -2,7 +2,7 @@
   "name": "slidev",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base /slides-start",
     "dev": "slidev --open",
     "export": "slidev export"
   },
